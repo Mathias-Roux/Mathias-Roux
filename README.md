@@ -4,7 +4,7 @@
 
 - I’m currently learning React
 - You can reach me: [LinkedIn](https://www.linkedin.com/in/mathias-roux/) / `mathiasroux.pro@gmail.com`
-- Take a look at my [portfolio](https://mathias-roux.github.io/Portfolio/) / [CV](https://drive.google.com/file/d/1mzSHOJIm9NLwg9nTUElqTHN-u9ZnncTJ/view)
+- Take a look at my [portfolio](www.mathiasroux.site) / [CV](https://drive.google.com/file/d/1mzSHOJIm9NLwg9nTUElqTHN-u9ZnncTJ/view)
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
