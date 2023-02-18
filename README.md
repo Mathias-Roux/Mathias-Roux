@@ -1,14 +1,3 @@
-- [LinkedIn](https://www.linkedin.com/in/mathias-roux/)
-- [mathiasroux.pro@gmail.com](mailto:mathiasroux.pro@gmail.com)
-- [portfolio](http://www.rouxmathias.site)
+[LinkedIn](https://www.linkedin.com/in/mathias-roux/) -- [mathiasroux.pro@gmail.com](mailto:mathiasroux.pro@gmail.com) -- [Portfolio](http://www.rouxmathias.site)
 
-#### :hammer_and_wrench: Languages and Tools :
-
-- Nodejs
-- Webpack
-- Pug (html render)
-- SCSS
-- Javascript
-- Primsic
-
-
+Nodejs Webpack Pug SCSS Javascript Primsic
